@@ -1,3 +1,0 @@
-This is a test file for uploading to git
-
-1) Test change to file
